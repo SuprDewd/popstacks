@@ -14,7 +14,7 @@ def combine(a,b):
     c = p.stdout.read()
     assert p.wait() == 0
 
-    p = Popen(['../DFA_minimizer'], stdin=PIPE, stdout=PIPE)
+    p = Popen(['./DFA_minimizer'], stdin=PIPE, stdout=PIPE)
     p.stdin.write(c)
     c = p.stdout.read().decode('utf-8')
 
