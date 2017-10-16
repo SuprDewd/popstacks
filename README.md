@@ -1,7 +1,8 @@
 # Enumerating the k-pop-stack-sortable permutations
 
 A program to calculate the generating function for k-pop-stack-sortable
-permutations, for any fixed k. Based on our paper (TODO: add link to arXiv).
+permutations, for any fixed k. Based on our paper [Enumerating permutations
+sortable by k passes through a pop-stack](https://arxiv.org/abs/1710.04978).
 
 ## Instructions
 
