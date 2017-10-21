@@ -27,7 +27,7 @@ the Docker version of `sage`.
 
 We have already calculated the generating functions for k at most 6. Previously
 the generating functions were only [known up to
-k=2](https://pp2017.github.io/assets/pdf/slides/lara_pudwell.pdf). The remaining ones have been added to [https://oeis.org/search?q=arXiv%3A1710.04978&sort=&language=english&go=Search](OEIS).
+k=2](https://pp2017.github.io/assets/pdf/slides/lara_pudwell.pdf). The remaining ones have been added to [OEIS](https://oeis.org/search?q=arXiv%3A1710.04978&sort=&language=english&go=Search).
 
 Note that k=6 was calculated on a cluster using a distributed version of the
 code in this repository, while the remaining generating functions were
