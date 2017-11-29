@@ -1,4 +1,4 @@
-#include "dfa.hpp"
+#include "lib/dfa.hpp"
 using namespace std;
 template <class T> int size(const T &x) { return x.size(); }
 #define rep(i,a,b) for (auto i=(a); i<(b); ++i)
