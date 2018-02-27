@@ -61,7 +61,7 @@ a couple of hours).
 ## Growth rates of generating functions
 
 Computed using the
-[https://github.com/SuprDewd/popstacks/blob/master/growth-rates.sage](growth-rates.sage)
+[growth-rates.sage](https://github.com/SuprDewd/popstacks/blob/master/growth-rates.sage)
 script, we calculated the following table of growth rates for the generating
 functions:
 
@@ -73,12 +73,12 @@ functions:
 </tr>
 </thead>
 <tbody>
-<tr><td>0</td><td>1.0000000000000000000000000000000000000</td></tr>
-<tr><td>1</td><td>2.0000000000000000000000000000000000000</td></tr>
-<tr><td>2</td><td>2.6589670819169940793467751567840156152</td></tr>
-<tr><td>3</td><td>3.4465495837658821156053478897493503173</td></tr>
-<tr><td>4</td><td>4.2705766480131190164929999918203545525</td></tr>
-<tr><td>5</td><td>5.1165829649257052749130124058778763434</td></tr>
-<tr><td>6</td><td>5.9669519367470388914807098673007439205</td></tr>
+<tr><td>0</td><td>1.0000</td></tr>
+<tr><td>1</td><td>2.0000</td></tr>
+<tr><td>2</td><td>2.6589</td></tr>
+<tr><td>3</td><td>3.4465</td></tr>
+<tr><td>4</td><td>4.2705</td></tr>
+<tr><td>5</td><td>5.1165</td></tr>
+<tr><td>6</td><td>5.9669</td></tr>
 </tbody>
 
