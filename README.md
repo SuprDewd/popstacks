@@ -61,7 +61,7 @@ a couple of hours).
 ## Growth rates of generating functions
 
 Computed using the
-[https://github.com/SuprDewd/popstacks/blob/master/growth-rates.sage](growth-rates.sage)
+[growth-rates.sage](https://github.com/SuprDewd/popstacks/blob/master/growth-rates.sage)
 script, we calculated the following table of growth rates for the generating
 functions:
 
